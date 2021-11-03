@@ -1,3 +1,7 @@
-
-Lenka Košárková
-Faculty of Mathematic and Physics
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Lenka Košárková</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
