@@ -1,5 +1,3 @@
-# Lenka Košárková #
-Faculty of Mathematic and Physics
 <html>
 <body>
 <h1>email adress</h1>
