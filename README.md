@@ -1,8 +1,8 @@
-# Ahoj
-ahoj2
+# Lenka Košárková
+Faculty of Mathematic and Physics
 <html>
 <body>
-<h1>Lenka Košárková</h1>
+<h1>email adress</h1>
 <p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
