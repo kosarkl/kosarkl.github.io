@@ -1,6 +1,6 @@
 # Lenka Košárková 
 Faculty of Mathematics and Physics
 
-email adress: kosarkova.lenka@email.cz
+Email adress: kosarkova.lenka@email.cz
 
-Curriculum Vitae
+[Curriculum Vitae](https://github.com/kosarkl/kosarkl.github.io/blob/main/Curriculum%20Vitae.pdf)
